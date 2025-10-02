@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    background:linear-gradient(130deg,#390f7b,#770379,#390f7b);
+    width:40vw;
+    height:30vh;
+    margin:30vh auto;
+    color:white;
+    font:bold 3rem algerian;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3rem;
+}
